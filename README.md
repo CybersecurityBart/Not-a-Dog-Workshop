@@ -4,8 +4,6 @@
 
 # Not a Dog Workshop
 
-This workshop is for beginners who would like to learn more about the cloud and then try some available services. Today artificial intelligence (AI) can benefit a lot of our applications and most of the time it's easier than we think to implement it.
-
 ![Dog or Not a Dog Application](https://github.com/FBoucher/Not-a-Dog-Workshop/blob/master/medias/workshopHeader.png)
 
 During this workshop you will deploy and complete a web application able to detect when the pictures are dogs or not and keep our image folder "clean". We call that application: *The automatic Not a Dog application*.
