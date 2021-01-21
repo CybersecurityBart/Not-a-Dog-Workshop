@@ -72,7 +72,7 @@ Every check-in into the master branch will trigger an Azure Pipeline to build th
 
 ## Video version
 
-If you prefer I have a video where I walkthrough all the workshop (aussi disponible en francais!).
+A recorded video version of this demo is linked below:
 
 [![YouTube](https://github.com/FBoucher/Not-a-Dog-Workshop/raw/master/medias/YouTubeThubnail.png)](https://youtu.be/ic-eP-gtFSo)
 
